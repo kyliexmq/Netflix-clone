@@ -22,6 +22,8 @@ This project is part of GA's projects and the purpose is to build a Netflix clon
 - User password: react
 
 # Screenshots
+<img width="1512" alt="Screen Shot 2023-01-11 at 7 20 25 pm" src="https://user-images.githubusercontent.com/114300308/211760503-4d24b1e6-5164-4a9e-b4d9-f8d75f67092c.png">
+
 
 # Project Status
 
